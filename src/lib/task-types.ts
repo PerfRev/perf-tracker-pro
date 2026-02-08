@@ -19,7 +19,7 @@ export const PROGRAMMING_TYPES = [
 ] as const;
 
 export const MARKETING_TYPES = [
-  "Financing Research",
+  "Razpisi",
   "Video Made",
   "Video Edited",
   "Video Uploaded",
